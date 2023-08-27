@@ -1,0 +1,11 @@
+﻿  main.cpp
+  menu.cpp
+E:\桌面\大一上\程序设计基础\实验\课题project\分数计算器的设计与实现\menu.cpp(31,28): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\桌面\大一上\程序设计基础\实验\课题project\分数计算器的设计与实现\menu.cpp(93,32): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\桌面\大一上\程序设计基础\实验\课题project\分数计算器的设计与实现\menu.cpp(118,13): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  Fraction.cpp
+E:\桌面\大一上\程序设计基础\实验\课题project\分数计算器的设计与实现\Fraction.cpp(42,12): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\桌面\大一上\程序设计基础\实验\课题project\分数计算器的设计与实现\Fraction.cpp(42,30): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\桌面\大一上\程序设计基础\实验\课题project\分数计算器的设计与实现\Fraction.cpp(160,30): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码...
+  分数计算器的设计与实现.vcxproj -> E:\桌面\大一上\程序设计基础\实验\课题project\分数计算器的设计与实现\x64\Debug\分数计算器的设计与实现.exe
